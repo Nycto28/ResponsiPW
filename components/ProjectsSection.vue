@@ -14,6 +14,6 @@ export default {
 <style scoped>
 .projects {
   padding: 50px 0;
-  background: #e9ecef;
+  background: #0679ec;
 }
 </style>
